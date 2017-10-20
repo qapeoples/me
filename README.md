@@ -16,10 +16,10 @@ High Quality & Cost Effective SQA Solution to IT Firms.
 # Who ?
 
 A Team of 5 Expert SQA Engineer.
-* One Manual Test Engineer.
-* One Load Test Engineer.
-* One Security Test Engineer.
-* One Automation Test Engineer.
+* Manual Test Engineer.
+* Load Test Engineer.
+* Security Test Engineer.
+* Automation Test Engineer.
 * Project Manager
 
 # When ?
