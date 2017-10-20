@@ -29,26 +29,11 @@ A Team of 5 Expert SQA Engineer.
 | Manual Testing | Security Testing | Automation Testing | Load Testing | Total | Pricing |
 | -------------- | ---------------- | ------------------ | ------------ | ----- | ------- |
 | 1 Hr | 1 Hr  | 1 Hr | 1 Hr | 4 Hr | Free (1st 10 Only) |
-| Manual Testing | Security Testing | Automation Testing | Load Testing | Total | Pricing |
-| Manual Testing | Security Testing | Automation Testing | Load Testing | Total | Pricing |
-| Manual Testing | Security Testing | Automation Testing | Load Testing | Total | Pricing |
+| 10 Hr | 4 Hr  | 4 Hr | 2 Hr | 20 Hr | 400 BDT/Hour |
+| 25 Hr | 10 Hr  | 10 Hr | 5 Hr | 50 Hr | 350 BDT/Hour |
+| 50 Hr | 20 Hr  | 20 Hr | 10 Hr | 100 Hr | 300 BDT/Hour |
+| 100 Hr | 40 Hr  | 40 Hr | 20 Hr | 200 Hr | 250 BDT/Hour |
+| 250 Hr | 100 Hr  | 100 Hr | 50 Hr | 500 Hr | 200 BDT/Hour |
 
-:Security:Automation:Load = 5:2:2:1
-
-* 20hr (400 BDT/Hour)
-  - 10 hr Manual Testing
-  - 4 hr Security Testing
-  - 4 hr Test Automation
-  - 2 hr Load Testing
-
-* 50hr (300 BDT/Hour)
-  - 25 hr Manual Testing
-  - 10 hr Security Testing
-  - 10 hr Test Automation
-  - 5 hr Load Testing
-
-* 100hr (250 BDT/Hour)
-
-* 500hr (200 BDT/Hour)
 
  
