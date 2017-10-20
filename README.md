@@ -1,17 +1,10 @@
 # qapeoples
 
-## What is it?
+Coffea House of QA Experts from Bangladesh.It exists to help organizations like yours enjoy the benefits of a full QA department without the associated setup cost and hassle. With an emphasis on time-bound delivery and customized solutions, we excel at helping our partners manage the quality of their deliverables while keeping costs low.
 
-Coffea House of QA Experts from Bangladesh.
+## GOAL ?
 
-## Why ?
-
-High Quality & Cost Effective SQA Solution to IT Firms.
-
-## Where ?
-
-* Ventura Iconia, Block H Banani, Dhaka 1213, Bangladesh
-* This is a Shared WorkSpace powered by MOAR(www.moarbd.com)
+High Quality & Cost Effective SQA Solution to IT Firms specially Bangladeshi Software Firms.
 
 ## Who ?
 
@@ -58,7 +51,7 @@ We offer customized package also.
 * Drive continuous improvement in “time to quality”.
 * Visionary pure play QA and Testing Services.
 
-## Contact:
+## Get in Touch:
 
 * qa.peoples@gmail.com
- 
+* Ventura Iconia, Block H Banani, Dhaka 1213, Bangladesh (This is a Shared WorkSpace powered by [MOAR](www.moarbd.com))
