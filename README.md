@@ -38,6 +38,18 @@ A Team of 5 Expert SQA Engineer.
 
 We offer customized package also.
 
+## QA Services
+
+* Automated Testing Services
+* Mobile QA
+* Manual Testing Services
+* Security Testing Services
+* Performance Testing Services
+* API Testing Services
+* QA Analysis
+* Crowdtesting
+* Self-Service On-Demand
+
 ## Why qapeoples is special ?
 
 * World Class Software Engineers in TEST.
