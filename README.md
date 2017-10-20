@@ -1,6 +1,6 @@
 # qapeoples
 
-Coffea House of QA Experts from Bangladesh.It exists to help organizations like yours enjoy the benefits of a full QA department without the associated setup cost and hassle. With an emphasis on time-bound delivery and customized solutions, we excel at helping our partners manage the quality of their deliverables while keeping costs low.
+Coffee House of QA Experts from Bangladesh.It exists to help organizations like yours enjoy the benefits of a full QA department without the associated setup cost and hassle. With an emphasis on time-bound delivery and customized solutions, we excel at helping our partners manage the quality of their deliverables while keeping costs low.
 
 ## GOAL ?
 
@@ -31,7 +31,7 @@ A Team of 5 Expert SQA Engineer.
 
 We offer customized package also.
 
-## QA Services
+## SQA Services
 
 * Automated Testing Services
 * Mobile QA
