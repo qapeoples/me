@@ -38,6 +38,14 @@ A Team of 5 Expert SQA Engineer.
 
 We offer customized package also.
 
+## Price Coparison
+
+| Resource | [Manual](https://github.com/qapeoples/me/blob/master/ManualTesting.md) | [Security](https://github.com/qapeoples/me/blob/master/SecurityTesting.md) | [Automation](https://github.com/qapeoples/me/blob/master/AutomatedTesting.md) | [Load](https://github.com/qapeoples/me/blob/master/LoadTesting.md) | [Documentation](https://github.com/qapeoples/me/blob/master/TestDocumentation.md) |
+| :---: |  :---: | :---: | :---: | :---: |
+| In House |  :---: | :---: | :---: | :---: |
+| Remote |  :---: | :---: | :---: | :---: |
+| QA Peoples |  :---: | :---: | :---: | :---: |
+
 ## Contact:
 
 * qa.peoples@gmail.com
