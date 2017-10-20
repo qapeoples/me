@@ -28,7 +28,7 @@ A Team of 5 Expert SQA Engineer.
 ## Pricing ?
 
 | Total| [Manual](https://github.com/qapeoples/me/blob/master/ManualTesting.md) | [Security](https://github.com/qapeoples/me/blob/master/SecurityTesting.md) | [Automation](https://github.com/qapeoples/me/blob/master/AutomatedTesting.md) | [Load](https://github.com/qapeoples/me/blob/master/LoadTesting.md) | [Documentation](https://github.com/qapeoples/me/blob/master/TestDocumentation.md) | Pricing |
-|  :---:  |  :---:   |  :---:   |  :---:   |  :---:   |  :---:   |  :---:   |
+|  :---:  |  :---:   |  :---:   |  :---:   |  :---:   |  :---:   |  :---:  |
 | 5 Hr | 1 Hr | 1 Hr  | 1 Hr | 1 Hr | 1 Hr | Free (1st 10 Only) |
 | 20 Hr | 8 Hr | 4 Hr  | 4 Hr | 2 Hr | 2 Hr | 400 BDT/Hour |
 | 50 Hr | 20 Hr | 10 Hr  | 10 Hr | 5 Hr | 5 Hr | 350 BDT/Hour |
@@ -38,13 +38,13 @@ A Team of 5 Expert SQA Engineer.
 
 We offer customized package also.
 
-## Price Coparison
+## Why qapeoples is special ?
 
-| Resource | [Manual](https://github.com/qapeoples/me/blob/master/ManualTesting.md) | [Security](https://github.com/qapeoples/me/blob/master/SecurityTesting.md) | [Automation](https://github.com/qapeoples/me/blob/master/AutomatedTesting.md) | [Load](https://github.com/qapeoples/me/blob/master/LoadTesting.md) | [Documentation](https://github.com/qapeoples/me/blob/master/TestDocumentation.md) |
-| :---: |  :---: | :---: | :---: | :---: |
-| In House |  :---: | :---: | :---: | :---: |
-| Remote |  :---: | :---: | :---: | :---: |
-| QA Peoples |  :---: | :---: | :---: | :---: |
+* World Class Software Engineers in TEST.
+* Dynamic & Customized Packages.
+* Balance testing costs with quality outcomes.
+* Drive continuous improvement in “time to quality”.
+* Visionary pure play QA and Testing Services.
 
 ## Contact:
 
