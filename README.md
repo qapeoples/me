@@ -27,7 +27,7 @@ A Team of 5 Expert SQA Engineer.
 
 ## Pricing ?
 
-| Total| [Manual](https://github.com/qapeoples/me/blob/master/ManualQA.md) | [Security](https://github.com/qapeoples/me/blob/master/SecurityTesting.md) | [Automation](https://github.com/qapeoples/me/blob/master/AutomatedTesting.md) | [Load](https://github.com/qapeoples/me/blob/master/LoadTesting.md) | [Documentation](https://github.com/qapeoples/me/blob/master/TestDocumentation.md) | Pricing |
+| Total| [Manual](https://github.com/qapeoples/me/blob/master/ManualTesting.md) | [Security](https://github.com/qapeoples/me/blob/master/SecurityTesting.md) | [Automation](https://github.com/qapeoples/me/blob/master/AutomatedTesting.md) | [Load](https://github.com/qapeoples/me/blob/master/LoadTesting.md) | [Documentation](https://github.com/qapeoples/me/blob/master/TestDocumentation.md) | Pricing |
 |  :---:  |  :---:   |  :---:   |  :---:   |  :---:   |  :---:   |  :---:   |
 | 5 Hr | 1 Hr | 1 Hr  | 1 Hr | 1 Hr | 1 Hr | Free (1st 10 Only) |
 | 20 Hr | 8 Hr | 4 Hr  | 4 Hr | 2 Hr | 2 Hr | 400 BDT/Hour |
