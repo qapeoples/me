@@ -1,19 +1,19 @@
-## qapeoples
+# qapeoples
 
-# What is it?
+## What is it?
 
 Coffea House of QA Experts from Bangladesh.
 
-# Why ?
+## Why ?
 
 High Quality & Cost Effective SQA Solution to IT Firms.
 
-# Where ?
+## Where ?
 
 * Ventura Iconia, Block H Banani, Dhaka 1213, Bangladesh
 * This is a Shared WorkSpace powered by MOAR(www.moarbd.com)
 
-# Who ?
+## Who ?
 
 A Team of 5 Expert SQA Engineer.
 * Manual Test Engineer.
@@ -22,10 +22,10 @@ A Team of 5 Expert SQA Engineer.
 * Automation Test Engineer.
 * Project Manager
 
-# When ?
+## When ?
 * Saturday-Thursday(8.00 A.M-8.00P.M)
 
-# Pricing ?
+## Pricing ?
 
 | Total| Manual | Security | Automation | Load | Test Documentation | Pricing |
 | --------------| -------------- | ---------------- | ------------------ | ------------ | ----- | ------- |
@@ -38,7 +38,7 @@ A Team of 5 Expert SQA Engineer.
 
 We offer customized package also.
 
-# Contact:
+## Contact:
 
 * qa.peoples@gmail.com
  
