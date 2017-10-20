@@ -28,6 +28,8 @@ A Team of 5 Expert SQA Engineer.
 
 | Manual Testing | Security Testing | Automation Testing | Load Testing | Total | Pricing |
 | -------------- | ---------------- | ------------------ | ------------ | ----- | ------- |
+| 1 Hr | 1 Hr  | 1 Hr | 1 Hr | 4 Hr | Free (1st 10 Only) |
+| Manual Testing | Security Testing | Automation Testing | Load Testing | Total | Pricing |
 | Manual Testing | Security Testing | Automation Testing | Load Testing | Total | Pricing |
 | Manual Testing | Security Testing | Automation Testing | Load Testing | Total | Pricing |
 
