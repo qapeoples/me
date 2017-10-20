@@ -27,14 +27,14 @@ A Team of 5 Expert SQA Engineer.
 
 # Pricing ?
 
-| Documentation| Manual | Security | Automation | Load | Total | Pricing |
+| Total| Manual | Security | Automation | Load | Test Documentation | Pricing |
 | --------------| -------------- | ---------------- | ------------------ | ------------ | ----- | ------- |
-| 1 Hr | 1 Hr | 1 Hr  | 1 Hr | 1 Hr | 5 Hr | Free (1st 10 Only) |
-| 2 Hr | 8 Hr | 4 Hr  | 4 Hr | 2 Hr | 20 Hr | 400 BDT/Hour |
-| 5 Hr | 20 Hr | 10 Hr  | 10 Hr | 5 Hr | 50 Hr | 350 BDT/Hour |
-| 10 Hr | 40 Hr | 20 Hr  | 20 Hr | 10 Hr | 100 Hr | 300 BDT/Hour |
-| 25 Hr | 75 Hr | 40 Hr  | 40 Hr | 20 Hr | 200 Hr | 250 BDT/Hour |
-| 50 Hr | 250 Hr | 100 Hr  | 100 Hr | 50 Hr | 500 Hr | 200 BDT/Hour |
+| 5 Hr | 1 Hr | 1 Hr  | 1 Hr | 1 Hr | 1 Hr | Free (1st 10 Only) |
+| 20 Hr | 8 Hr | 4 Hr  | 4 Hr | 2 Hr | 2 Hr | 400 BDT/Hour |
+| 50 Hr | 20 Hr | 10 Hr  | 10 Hr | 5 Hr | 5 Hr | 350 BDT/Hour |
+| 100 Hr | 40 Hr | 20 Hr  | 20 Hr | 10 Hr | 10 Hr | 300 BDT/Hour |
+| 200 Hr | 75 Hr | 40 Hr  | 40 Hr | 20 Hr | 25 Hr | 250 BDT/Hour |
+| 500 Hr | 250 Hr | 100 Hr  | 100 Hr | 50 Hr | 50 Hr | 200 BDT/Hour |
 
 We offer customized package also.
 
