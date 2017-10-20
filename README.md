@@ -26,7 +26,12 @@ A Team of 5 Expert SQA Engineer.
 
 # Pricing ?
 
-Manual:Security:Automation:Load = 5:2:2:1
+| Manual Testing | Security Testing | Automation Testing | Load Testing | Total | Pricing |
+| -------------- | ---------------- | ------------------ | ------------ | ----- | ------- |
+| Manual Testing | Security Testing | Automation Testing | Load Testing | Total | Pricing |
+| Manual Testing | Security Testing | Automation Testing | Load Testing | Total | Pricing |
+
+:Security:Automation:Load = 5:2:2:1
 
 * 20hr (400 BDT/Hour)
   - 10 hr Manual Testing
