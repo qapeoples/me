@@ -10,7 +10,8 @@ High Quality & Cost Effective SQA Solution to IT Firms.
 
 # Where ?
 
-Ventura Iconia, Level 3, House 37, Road 11, Block H Banani, Dhaka 1213, Bangladesh
+* Ventura Iconia, Level 3, House 37, Road 11, Block H Banani, Dhaka 1213, Bangladesh
+* This is a Shared WorkSpace powered by MOAR(www.moarbd.com)
 
 # Who ?
 
