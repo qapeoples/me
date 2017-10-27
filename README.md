@@ -45,7 +45,7 @@ We Offer InHouse/Remote Both type of Task Delivery.
 
 | Type 1 | Type 2 |
 |  :---  |  :---  |
-| QA Peoples SEND resources to Collect Systems Requirements | QA Peoples SEND its resources to project office for work  |
+| We SEND resources to Collect Systems Requirements | We send resources to project office for work  |
 | 80% of the task is done at remote & 20% at project office. | 100% of the task is done at at project office. |
 | Delivers the Project & Gives training to use that system. | Delivers the Project & Gives training to use that system. |
 | Clients Pays according to Contract | Clients Pays according to Man/HR basis. |
