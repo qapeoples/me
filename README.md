@@ -9,11 +9,14 @@ High Quality & Cost Effective SQA Solution to IT Firms specially Bangladeshi Sof
 ## Who ?
 
 A Team of 5 Expert SQA Engineer.
-* Manual Test Engineer.
-* Load Test Engineer.
-* Security Test Engineer.
-* Automation Test Engineer.
-* Project Manager
+
+* [QA Consultant](https://www.linkedin.com/in/kazi-md-shimul-billah-a625b2a9/)
+* [QA Consultant 2](https://www.linkedin.com/in/khaled-bin-kamal-6ab3a453/)
+* [Automation Test Engineer](Automation Test Engineer)
+* [Senior QA Consultant](https://www.linkedin.com/in/mrouf/)
+* [Solution Architect](https://www.linkedin.com/in/mostafiz838/)
+
+Beside this We have 5 Junior QA who works with us according to project Basis.
 
 ## When ?
 * Saturday-Thursday(8.00 A.M-8.00P.M)
@@ -25,11 +28,24 @@ A Team of 5 Expert SQA Engineer.
 | 5 Hr | 1 Hr | 1 Hr  | 1 Hr | 1 Hr | 1 Hr | Free (1st 10 Only) |
 | 20 Hr | 8 Hr | 4 Hr  | 4 Hr | 2 Hr | 2 Hr | 400 BDT/Hour |
 | 50 Hr | 20 Hr | 10 Hr  | 10 Hr | 5 Hr | 5 Hr | 350 BDT/Hour |
-| 100 Hr | 40 Hr | 20 Hr  | 20 Hr | 10 Hr | 10 Hr | 300 BDT/Hour |
-| 200 Hr | 75 Hr | 40 Hr  | 40 Hr | 20 Hr | 25 Hr | 250 BDT/Hour |
-| 500 Hr | 250 Hr | 100 Hr  | 100 Hr | 50 Hr | 50 Hr | 200 BDT/Hour |
+| 100 Hr | 40 Hr | 20 Hr  | 20 Hr | 10 Hr | 10 Hr | 325 BDT/Hour |
+| 200 Hr | 75 Hr | 40 Hr  | 40 Hr | 20 Hr | 25 Hr | 300 BDT/Hour |
 
-We offer customized package also.
+We offer customized package also at the following pricing:
+
+* Custom Test Automation Tools/Framework Development (500 BDT/Hour)
+* Custom Test Process & Documentation Development to Support SDLC (500 BDT/Hour)
+* Project Management Process & Documentation Development to Support SDLC (500 BDT/Hour)
+
+We Offer InHouse/Remote Both type of Task Delivery.
+
+## What Is Inhouse Services ?
+
+| Type 1 | Type 2 |
+|  :---:  |  :---:  |
+| QA Peoples SEND its resources to project office. | QA Peoples SEND its resources to project office. |
+| Delivers the Project & Gives training to use that system. | 100% of the task is done at at project office. |
+| 80% of the task is done at remote & 20% at project office. | Clients Pays according to Man/HR basis. |
 
 ## SQA Services
 
@@ -38,7 +54,7 @@ We offer customized package also.
 * Manual Testing Services
 * Security Testing Services
 * Performance Testing Services
-* API Testing Services
+* API Testing/Monitoring Services
 * QA Analysis
 * Crowdtesting
 * Self-Service On-Demand
