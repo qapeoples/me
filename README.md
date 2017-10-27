@@ -3,16 +3,13 @@
 Coffee House of QA Experts from Bangladesh.It exists to help organizations like yours enjoy the benefits of a full QA department without the associated setup cost and hassle. With an emphasis on time-bound delivery and customized solutions, we excel at helping our partners manage the quality of their deliverables while keeping costs low.
 
 ## GOAL ?
-
 High Quality & Cost Effective SQA Solution to IT Firms specially Bangladeshi Software Firms.
 
 ## Current Industry Issues:
-
 * Advance QA is required for Large Scale ERP/Systems/Apps.It Needs 8 to 10 Month time is required to develop a custom process/systems by an Expert Team most of the firms are unable to maintain expert Test Automation(DevOps Intregated) Team.After the development of the System Only Single Senior QA can maintain the process by Hand.
 * So What will the Test Automation/Syatem Automation team do after this process development ? Here  QA Peoples is giving you the solution.One Common platform to serve you High Quality & Cost Effective SQA Solution at a Merginal Cost.
 
 ## Who ?
-
 A Team of 5 Expert SQA Engineer.
 
 * [Senior QA](https://www.linkedin.com/in/kazi-md-shimul-billah-a625b2a9/)
@@ -21,7 +18,7 @@ A Team of 5 Expert SQA Engineer.
 * [[Automation Test Engineer 2](https://www.linkedin.com/in/mrouf/)
 * [Solution Architect](https://www.linkedin.com/in/mostafiz838/)
 
-Beside this We have 5 Junior QA who works with us according to project Basis.
+Beside this We have 5 Junior QA who works with us according to project requirement.
 
 ## When ?
 * Saturday-Thursday(8.00 A.M-8.00P.M)
