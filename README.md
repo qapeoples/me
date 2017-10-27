@@ -15,7 +15,7 @@ A Team of 5 Expert SQA Engineer.
 * [Senior QA](https://www.linkedin.com/in/kazi-md-shimul-billah-a625b2a9/)
 * [Senior QA 2](https://www.linkedin.com/in/khaled-bin-kamal-6ab3a453/)
 * [Automation Test Engineer](https://www.linkedin.com/in/mahmud-hasan-riad-8b512650)
-* [[Automation Test Engineer 2](https://www.linkedin.com/in/mrouf/)
+* [Automation Test Engineer 2](https://www.linkedin.com/in/mrouf/)
 * [Solution Architect](https://www.linkedin.com/in/mostafiz838/)
 
 Beside this We have 5 Junior QA who works with us according to project requirement.
@@ -48,7 +48,7 @@ We Offer InHouse/Remote Both type of Task Delivery.
 | QA Peoples SEND its resources to project office. | QA Peoples SEND its resources to project office. |
 | 80% of the task is done at remote & 20% at project office. | 100% of the task is done at at project office. |
 | Delivers the Project & Gives training to use that system. | Delivers the Project & Gives training to use that system. |
-|  Clients Pays according to Contract | Clients Pays according to Man/HR basis. |
+| Clients Pays according to Contract | Clients Pays according to Man/HR basis. |
 
 ## SQA Services
 
