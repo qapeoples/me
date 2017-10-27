@@ -10,7 +10,7 @@ High Quality & Cost Effective SQA Solution to IT Firms specially Bangladeshi Sof
 * So What will the Test Automation/Syatem Automation team do after this process development ? Here  QA Peoples is giving you the solution.One Common platform to serve you High Quality & Cost Effective SQA Solution at a Merginal Cost.
 
 ## Who ?
-A Team of 5 Expert SQA Engineer.
+A Team of 6 Expert Software Engineer in Test to provide world standard SQA Services.
 
 * [Senior QA](https://www.linkedin.com/in/kazi-md-shimul-billah-a625b2a9/)
 * [Senior QA 2](https://www.linkedin.com/in/khaled-bin-kamal-6ab3a453/)
