@@ -17,6 +17,7 @@ A Team of 5 Expert SQA Engineer.
 * [Automation Test Engineer](https://www.linkedin.com/in/mahmud-hasan-riad-8b512650)
 * [Automation Test Engineer 2](https://www.linkedin.com/in/mrouf/)
 * [Solution Architect](https://www.linkedin.com/in/mostafiz838/)
+* [Test Architect](https://www.linkedin.com/in/shaiful/)
 
 Beside this We have 5 Junior QA who works with us according to project requirement.
 
