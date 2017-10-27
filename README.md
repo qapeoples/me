@@ -11,7 +11,7 @@ High Quality & Cost Effective SQA Solution to IT Firms specially Bangladeshi Sof
 A Team of 5 Expert SQA Engineer.
 
 * [Senior QA](https://www.linkedin.com/in/kazi-md-shimul-billah-a625b2a9/)
-* [Senior QA](https://www.linkedin.com/in/khaled-bin-kamal-6ab3a453/)
+* [Senior QA 2](https://www.linkedin.com/in/khaled-bin-kamal-6ab3a453/)
 * [Automation Test Engineer](https://www.linkedin.com/in/mahmud-hasan-riad-8b512650)
 * [Senior QA Consultant](https://www.linkedin.com/in/mrouf/)
 * [Solution Architect](https://www.linkedin.com/in/mostafiz838/)
