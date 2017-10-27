@@ -46,8 +46,9 @@ We Offer InHouse/Remote Both type of Task Delivery.
 | Type 1 | Type 2 |
 |  :---:  |  :---:  |
 | QA Peoples SEND its resources to project office. | QA Peoples SEND its resources to project office. |
-| Delivers the Project & Gives training to use that system. | 100% of the task is done at at project office. |
-| 80% of the task is done at remote & 20% at project office. | Clients Pays according to Man/HR basis. |
+| 80% of the task is done at remote & 20% at project office. | 100% of the task is done at at project office. |
+| Delivers the Project & Gives training to use that system. | Delivers the Project & Gives training to use that system. |
+|  Clients Pays according to Contract | Clients Pays according to Man/HR basis. |
 
 ## SQA Services
 
