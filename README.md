@@ -44,7 +44,7 @@ We Offer InHouse/Remote Both type of Task Delivery.
 ## What Is Inhouse Services ?
 
 | Type 1 | Type 2 |
-|  :---:  |  :---:  |
+|  :---  |  :---  |
 | QA Peoples SEND its resources to project office. | QA Peoples SEND its resources to project office. |
 | 80% of the task is done at remote & 20% at project office. | 100% of the task is done at at project office. |
 | Delivers the Project & Gives training to use that system. | Delivers the Project & Gives training to use that system. |
