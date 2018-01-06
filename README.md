@@ -29,16 +29,16 @@ Beside this We have 5 Junior QA who works with us according to project requireme
 | Total| [Manual](https://github.com/qapeoples/me/blob/master/ManualTesting.md) | [Security](https://github.com/qapeoples/me/blob/master/SecurityTesting.md) | [Automation](https://github.com/qapeoples/me/blob/master/AutomatedTesting.md) | [Load](https://github.com/qapeoples/me/blob/master/LoadTesting.md) | [Documentation](https://github.com/qapeoples/me/blob/master/TestDocumentation.md) | Pricing |
 |  :---:  |  :---:   |  :---:   |  :---:   |  :---:   |  :---:   |  :---:  |
 | 5 Hr | 1 Hr | 1 Hr  | 1 Hr | 1 Hr | 1 Hr | Free (1st 10 Only) |
-| 20 Hr | 8 Hr | 4 Hr  | 4 Hr | 2 Hr | 2 Hr | 400 BDT/Hour |
-| 50 Hr | 20 Hr | 10 Hr  | 10 Hr | 5 Hr | 5 Hr | 350 BDT/Hour |
-| 100 Hr | 40 Hr | 20 Hr  | 20 Hr | 10 Hr | 10 Hr | 325 BDT/Hour |
-| 200 Hr | 75 Hr | 40 Hr  | 40 Hr | 20 Hr | 25 Hr | 300 BDT/Hour |
+| 20 Hr | 8 Hr | 4 Hr  | 4 Hr | 2 Hr | 2 Hr | 16$/Hour |
+| 50 Hr | 20 Hr | 10 Hr  | 10 Hr | 5 Hr | 5 Hr | 15$ BDT/Hour |
+| 100 Hr | 40 Hr | 20 Hr  | 20 Hr | 10 Hr | 10 Hr | 14$ BDT/Hour |
+| 200 Hr | 75 Hr | 40 Hr  | 40 Hr | 20 Hr | 25 Hr | 12$ BDT/Hour |
 
 We offer customized package also at the following pricing:
 
-* Custom Test Automation Tools/Framework Development (500 BDT/Hour)
-* Custom Test Process & Documentation Development to Support SDLC (500 BDT/Hour)
-* Project Management Process & Documentation Development to Support SDLC (500 BDT/Hour)
+* Custom Test Automation Tools/Framework Development (12$/Hour)
+* Custom Test Process & Documentation Development to Support SDLC (12$/Hour)
+* Project Management Process & Documentation Development to Support SDLC (12$/Hour)
 
 We Offer InHouse/Remote Both type of Task Delivery.
 
