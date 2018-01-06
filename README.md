@@ -33,6 +33,7 @@ Beside this We have 5 Junior QA who works with us according to project requireme
 | 50 Hr | 20 Hr | 10 Hr  | 10 Hr | 5 Hr | 5 Hr | 15$ BDT/Hour |
 | 100 Hr | 40 Hr | 20 Hr  | 20 Hr | 10 Hr | 10 Hr | 14$ BDT/Hour |
 | 200 Hr | 75 Hr | 40 Hr  | 40 Hr | 20 Hr | 25 Hr | 12$ BDT/Hour |
+| 500 Hr | 200 Hr | 50 Hr  | 150 Hr | 50 Hr | 50 Hr | 10$ BDT/Hour |
 
 We offer customized package also at the following pricing:
 
