@@ -37,9 +37,9 @@ Beside this We have 5 Junior QA who works with us according to project requireme
 
 We offer customized package also at the following pricing:
 
-* Custom Test Automation Tools/Framework Development (12$/Hour)
-* Custom Test Process & Documentation Development to Support SDLC (12$/Hour)
-* Project Management Process & Documentation Development to Support SDLC (12$/Hour)
+* Custom Test Automation Tools/Framework Development (15$/Hour)
+* Custom Test Process & Documentation Development to Support SDLC (20$/Hour)
+* Project Management Process & Documentation Development to Support SDLC (20$/Hour)
 
 We Offer InHouse/Remote Both type of Task Delivery.
 
